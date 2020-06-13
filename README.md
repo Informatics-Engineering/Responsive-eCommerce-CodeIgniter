@@ -1,4 +1,4 @@
-# Responsive-eCommerce-CodeIgniter
+# Responsive eCommerce CodeIgniter
 
 - Silahkan ganti API Key RajaOngkir pada file config dengan API Key milik Anda.
 - Silahkan ganti Pengaturan Email (SMTP) pada file Email Helper dan file Controller Admin dengan pengaturan email Anda.
